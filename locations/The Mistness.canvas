@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"629576d58c120d19","type":"text","text":"Derrite Roc","x":-372,"y":80,"width":166,"height":60},
+		{"id":"87d9dce539fe7c63","type":"text","text":"Sigma-1 Roc","x":-289,"y":0,"width":149,"height":60},
+		{"id":"00d4582a300f8e60","type":"text","text":"Panacea (city)","x":-331,"y":280,"width":250,"height":60},
+		{"id":"158645da3df3c3f5","type":"text","text":"TX-P Roc","x":-180,"y":160,"width":120,"height":60},
+		{"id":"9253c2ff40280067","type":"text","text":"Calduca Roc","x":140,"y":-220,"width":250,"height":60},
+		{"id":"b30ff16d13649d26","x":140,"y":-100,"width":250,"height":60,"type":"text","text":"Calduca (city)"}
+	],
+	"edges":[
+		{"id":"c470f3c14eac2e79","fromNode":"00d4582a300f8e60","fromSide":"top","toNode":"629576d58c120d19","toSide":"bottom"},
+		{"id":"d7402cdfa32233fe","fromNode":"00d4582a300f8e60","fromSide":"top","toNode":"87d9dce539fe7c63","toSide":"bottom"},
+		{"id":"9b425b6e14233fec","fromNode":"00d4582a300f8e60","fromSide":"top","toNode":"158645da3df3c3f5","toSide":"bottom"},
+		{"id":"0dc7e6d5fc968dbb","fromNode":"b30ff16d13649d26","fromSide":"top","toNode":"9253c2ff40280067","toSide":"bottom"}
+	]
+}

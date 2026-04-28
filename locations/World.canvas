@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"df73070e3b60c0fe","type":"file","file":"locations/Calyps Islands.md","x":-320,"y":80,"width":250,"height":100},
+		{"id":"c2d7c4d39822ae4f","type":"file","file":"locations/Hereterra.md","x":80,"y":-40,"width":250,"height":100},
+		{"id":"69cafe086d9f50a0","type":"file","file":"locations/The Mistness.md","x":-260,"y":-380,"width":540,"height":210}
+	],
+	"edges":[]
+}
