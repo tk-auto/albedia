@@ -25,23 +25,24 @@ survey — edit freely as the region grows.
                                    ^
   +--------------------------------------------------------------------+
   |                                                                    |
-  |   OUTRARE         Col Vulca        ESPER COUNTIES         THE      |
-  |   PLAINS          (crater)         (fertile hills)        BARREN   |
-  |   (nomad                              :                   PEAKS    |
-  |    steppe)         ||  Val            :    ~~ Diamond    ^^^^^^^   |
-  |                    ||  Verde          :       River ~~~   ^^^^^    |
-  |                    ||  (canyon)       :         ~~~~~              |
-  |   ~~~~~~~~~~       ||                Mount Ballor ^                |
-  |   ~ SEA OF ~       ||               (Sleeping God)      THE        |
-  |   ~ LYSIN  ~       ||      TAJE                         SCYTHED    |
-  |   ~~~~~~~~~~      Port     PLATEAUS                     LANDS      |
-  |                  Terre                                (corrosive   |
-  |                                       PANKLIN           desert)    |
-  |                                       CITADEL                      |
+  |   OUTRARE        Col Vulca      ESPER COUNTIES          THE        |
+  |   PLAINS         (crater)       (fertile hills)         BARREN     |
+  |   (nomad                            :                   PEAKS      |
+  |    steppe)                          :         ~~ Diamond ^^^^^^    |
+  |                 ||  Val  <~~~~~~~~~~~~~~~~~~~~~ River ~~~ ^^^^^    |
+  |                 ||  Verde           :                              |
+  |                 ||  (canyon)        :          Mount Ballor ^      |
+  |   ~~~~~~~~~~     ||                  :          (Sleeping God)     |
+  |   ~ SEA OF ~     ||       TAJE                          THE        |
+  |   ~ LYSIN  ~     ||       PLATEAUS                      SCYTHED    |
+  |   ~~~~~~~~~~    Port                                    LANDS      |
+  |                Terre                  PANKLIN          (corrosive  |
+  |                                       CITADEL           desert)    |
   |                                                                    |
   +--------------------------------------------------------------------+
 
-  ~ sea / river    ^ mountains    || cliffs of Val Verde    : Nerem's Trail
+  ~ sea / river   ^ mountains   || cliffs of Val Verde   : Nerem's Trail
+  The Diamond River rises in the Barren Peaks and flows west into Val Verde.
 ```
 
 ## Geography
@@ -51,10 +52,12 @@ Hereterra spans a wide range of country. The semi-arid
 old crater of [Col Vulca](col-vulca.md) and the fertile hills of the
 [Esper Counties](esper-counties.md). Along the north-east rise
 [the Barren Peaks](the-barren-peaks.md), from which the
-[Diamond River](diamond-river.md) descends in a maze of branches and marsh.
+[Diamond River](diamond-river.md) descends in a maze of branches and marsh,
+running west to empty into [Val Verde](val-verde.md).
 
 Down the region's spine runs [Val Verde](val-verde.md), a deep cliff-walled
-valley choked with green, while the windswept but fertile
+valley choked with green, into which the Diamond River flows; while the
+windswept but fertile
 [Taje Plateaus](taje-plateaus.md) rise to the south. To the east, the steep
 [Mount Ballor](mount-ballor.md) stands apart from the Barren Peaks, and beyond it
 the corrosive [Scythed Lands](the-scythed-lands.md) waste away under a ceaseless

@@ -9,17 +9,17 @@ tags:
 
 The Diamond River is a very broad, many-branched river of
 [Hereterra](hereterra.md), in [Albedia](../index.md), rising in
-[the Barren Peaks](the-barren-peaks.md) and spreading into a wide network of
-channels and marshes.
+[the Barren Peaks](the-barren-peaks.md) and running west to empty into
+[Val Verde](val-verde.md).
 
 ## Geography
 
 The river takes its source high in [the Barren Peaks](the-barren-peaks.md) and
 descends into the lowlands, where it splits into many ramifications and broad
 marshland rather than a single channel. It passes the fertile
-[Esper Counties](esper-counties.md), and the corrosive wind of
-[the Scythed Lands](the-scythed-lands.md) is said to blow back up its course from
-the east.
+[Esper Counties](esper-counties.md) and runs on westward, pouring at last into
+the cliff-walled valley of [Val Verde](val-verde.md). The corrosive wind of
+[the Scythed Lands](the-scythed-lands.md) is said to climb back up its course.
 
 ## Nerem's Trail
 
@@ -32,6 +32,7 @@ extensively improved to carry the convoys that pass along it.
 
 - [Hereterra](hereterra.md) — the region it flows through.
 - [The Barren Peaks](the-barren-peaks.md) — its source.
+- [Val Verde](val-verde.md) — the valley it empties into.
 - [Esper Counties](esper-counties.md) and [Taje Plateaus](taje-plateaus.md) — the
   lands its trail connects.
 - [Nerem](../characters/nerem.md) — namesake of the trail.
