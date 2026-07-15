@@ -32,6 +32,9 @@ the sky, believed to have been torn from the planet itself. Beneath them cling
 the [SkyHangers](peoples/the-skyhangers.md), a people who have made the underside
 of the sky their home.
 
-Elsewhere lie the [Calyps Islands](locations/calyps-islands.md) and
-[Hereterra](locations/hereterra.md) — lands whose stories are still waiting to
-be written.
+To the south lies [Hereterra](locations/hereterra.md), a broad region of nomad
+plains, fertile hill-counties and windswept plateaus, a wide branching river,
+and a corrosive desert — ringed by mountains and edged by the shallow
+[Sea of Lysin](locations/sea-of-lysin.md). Elsewhere lie the
+[Calyps Islands](locations/calyps-islands.md), whose story is still waiting to be
+written.

@@ -9,5 +9,8 @@ tags:
 The named individuals of [Albedia](../index.md) — the people and beings who move
 its history.
 
-> No characters have been recorded yet. Tell Claude about someone who lives in
-> the world and it will add them here.
+- **[Nerem](nerem.md)** — who first found the trail through Hereterra that now
+  bears their name. *Stub.*
+
+> Tell Claude about someone else who lives in the world and it will add them
+> here.
