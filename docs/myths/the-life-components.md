@@ -68,5 +68,7 @@ the sky.
   from.
 - [The Mistness](../locations/the-mistness.md) — home of the Rocs, stones
   drained of Malia.
+- [The Origin of the Rocs](the-origin-of-the-rocs.md) — how the Rocs came to
+  be drained is an open question. *Stub.*
 - [Glossary](../glossary.md) — short definitions of *Life Components* and
   *Malia*.

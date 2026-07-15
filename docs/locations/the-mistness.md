@@ -9,8 +9,8 @@ tags:
 
 The Mistness is a dense and opaque cloud mass covering the northern pole of
 [Albedia](../index.md). Above these clouds lie gigantic suspended rocks — the
-**Rocs** — believed to have been torn from the planet itself, and which levitate
-without moving.
+**Rocs** — [believed to have been torn from the planet
+itself](../myths/the-origin-of-the-rocs.md), and which levitate without moving.
 
 Beneath the Rocs, using clever constructions attached to their undersides, live
 a people called the [SkyHangers](../peoples/the-skyhangers.md). Above the Rocs,
@@ -46,3 +46,5 @@ levitate yet hang inert in the sky.
   the Rocs.
 - [The Life Components](../myths/the-life-components.md) — why the Rocs hang
   motionless: stones drained of Malia.
+- [The Origin of the Rocs](../myths/the-origin-of-the-rocs.md) — how they came
+  to be torn loose and drained. *Stub.*
