@@ -26,3 +26,9 @@ The skill does not apply to purely technical work on the wiki's tooling itself
   or `mkdocs build --strict` (must pass — broken cross-links fail it).
 - Pushes to `main` auto-deploy to GitHub Pages via `.github/workflows/deploy.yml`.
 - The original Obsidian vault is archived read-only under `archive/obsidian/`.
+
+## Committing
+
+Always commit directly to `main` — no feature branches, no pull requests, no
+fuss. Make the change, ensure `mkdocs build --strict` passes, commit, and push
+to `main`.
