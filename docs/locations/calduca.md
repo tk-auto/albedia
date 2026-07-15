@@ -10,9 +10,9 @@ tags:
 > **Stub.** This entry exists mainly to be linked to. Tell Claude what you know
 > about Calduca and it will grow.
 
-Calduca is a city of [The Mistness](the-mistness.md), suspended beneath the
-**Calduca Roc**. It is built, like its neighbours, into constructions hung from
-the underside of the floating stone, home to the
+Calduca is a medium-sized city of [The Mistness](the-mistness.md), suspended
+beneath the **Calduca Roc**. It is built, like its neighbours, into constructions
+hung from the underside of the floating stone, home to the
 [SkyHangers](../peoples/the-skyhangers.md).
 
 ## See also
