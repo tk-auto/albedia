@@ -6,9 +6,10 @@ tags:
 
 # Welcome to the world of Albedia
 
-Albedia is a world of suspended stone and drifting cloud. This wiki is its
-living encyclopedia — the record of its lands, the peoples who inhabit them,
-the powers that shape them, and the stories they tell.
+Albedia is a world of suspended stone and drifting cloud, of nomad plains and
+windswept plateaus, of corrosive deserts and shallow merchant seas. This wiki
+is its living encyclopedia — the record of its lands, the peoples who inhabit
+them, the powers that shape them, and the stories they tell.
 
 ## Start exploring
 
@@ -36,6 +37,6 @@ of the sky their home.
 To the south lies [Hereterra](locations/hereterra.md), a broad region of nomad
 plains, fertile hill-counties and windswept plateaus, a wide branching river,
 and a corrosive desert — ringed by mountains and edged by the shallow
-[Sea of Lysin](locations/sea-of-lysin.md). Elsewhere lie the
+[Sea of Lysin](locations/sea-of-lysin.md). Far out in that sea lie the
 [Calyps Islands](locations/calyps-islands.md), whose story is still waiting to be
 written.

@@ -7,7 +7,7 @@ tags:
 
 # Barren Peaks
 
-The Barren Peaks are a mid-altitude mountain range along the north-east of
+The Barren Peaks are a mid-altitude mountain range walling the east of
 [Hereterra](hereterra.md), in [Albedia](../index.md), home to a fierce and
 dangerous wildlife.
 

@@ -14,7 +14,8 @@ The lands, regions, cities, and landmarks of [Albedia](../index.md).
   floating Rocs that hang above it.
 - **[Hereterra](hereterra.md)** — a broad region of plains, hills, plateaus, a
   branching river, and a scoured desert.
-- **[Calyps Islands](calyps-islands.md)** — *stub.*
+- **[Calyps Islands](calyps-islands.md)** — islands far out in the Sea of
+  Lysin. *Stub.*
 
 ## Cities
 

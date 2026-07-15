@@ -11,7 +11,7 @@ tags:
 > resolved. Two threads await reconciliation: they are *believed to have been
 > torn from the planet itself*, and in the account of
 > [the Life Components](../myths/the-life-components.md) they are *fully
-> drained of [Malia](the-life-components.md#malia)*, unable to use their Air
+> drained of [Malia](the-life-components.md#malia)*, unable to use their Water
 > to move. Who tore them loose, and what drained them? Tell Claude, and this
 > will grow.
 

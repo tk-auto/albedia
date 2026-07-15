@@ -9,8 +9,10 @@ tags:
 
 Hereterra is a broad, varied region of [Albedia](../index.md) — a land of
 semi-arid plains, fertile hills and plateaus, a wide branching river, and a
-scoured desert, ringed by mountains and edged to the south-west by the shallow
-[Sea of Lysin](sea-of-lysin.md).
+scoured desert. It is walled to the east by the
+[Barren Peaks](barren-peaks.md), edged to the south and west by the shallow
+[Sea of Lysin](sea-of-lysin.md), and bounded far to the north by the
+[Mistness](mistness.md).
 
 *Note: the original vault spelled this both "Hereterra" and "Herreterra". This
 wiki standardizes on **Hereterra**.*
@@ -23,27 +25,30 @@ survey — edit freely as the region grows.
 ```text
                                    N
                                    ^
+                   (far to the north: MISTNESS)
   +--------------------------------------------------------------------+
   |                                                                    |
-  |   OUTRARE       Col Vulca      ESPER COUNTIES         THE          |
-  |   PLAINS        (crater)       (fertile hills)        BARREN       |
-  |   (nomad           |             :                    PEAKS        |
+  |   OUTRARE       Col Vulca      ESPER COUNTIES          BARREN      |
+  |   PLAINS        (crater)       (fertile hills)         PEAKS       |
+  |   (nomad           |             :                     ^^^^^^      |
   |    steppe)      ~~ v <~~~~~~~~~~ Diamond ~~~~~~~~~~~~~ ^^^^^^      |
-  |                 ||  Val          :   River            ^^^^^        |
+  |                 ||  Val          :   River             ^^^^^       |
   |                 ||  Verde        :                                 |
-  |   ~~~~~~~~~      ||  (canyon)    :         Mount Ballor ^          |
-  |   ~ SEA OF ~     ||              :         (Sleeping God)          |
-  |   ~ LYSIN  ~     ||       TAJE                         THE         |
-  |   ~~~~~~~~~     Port      PLATEAUS                     SCYTHED     |
-  |                Terre                                  LANDS        |
-  |                                     PANKLIN          (corrosive    |
-  |                                     CITADEL           desert)      |
+  |   ~~~~~~~~~     ||  (canyon)     :         Mount Ballor ^          |
+  |   ~ SEA OF ~    ||               :         (Sleeping God)          |
+  |   ~ LYSIN  ~    Port      TAJE                         SCYTHED     |
+  |   ~~~~~~~~~    Terre      PLATEAUS                     LANDS       |
+  |   ~~~~~~~~                                            (corrosive   |
+  |   ~~~~~~~~~~~~~~          PANKLIN                      desert)     |
+  |   ~~~~~~~~~~~~~~~~~~~~    CITADEL                                  |
   |                                                                    |
   +--------------------------------------------------------------------+
 
   ~ sea / river   ^ mountains   || cliffs of Val Verde   : Nerem's Trail
   The Diamond River rises in the Barren Peaks and flows west, spilling into
-  the northern head of Val Verde ( v ) just below Col Vulca.
+  the northern head of Val Verde ( v ) just below Col Vulca. The Sea of
+  Lysin edges the region south and west; the Barren Peaks wall the east;
+  far north, beyond the map, lies the Mistness.
 ```
 
 ## Geography
@@ -51,7 +56,7 @@ survey — edit freely as the region grows.
 Hereterra spans a wide range of country. The semi-arid
 [Outrare Plains](outrare-plains.md) roll across the north-west, giving way to the
 old crater of [Col Vulca](col-vulca.md) and the fertile hills of the
-[Esper Counties](esper-counties.md). Along the north-east rise
+[Esper Counties](esper-counties.md). Along the east rise
 the [Barren Peaks](barren-peaks.md), from which the
 [Diamond River](diamond-river.md) descends in a maze of branches and marsh,
 running west to spill into the northern head of [Val Verde](val-verde.md), just

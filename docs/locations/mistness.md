@@ -24,7 +24,7 @@ their undersides; their upper reaches are lifeless, starved of air.
 In the account of [the Life Components](../myths/the-life-components.md), even
 stone is a little alive — and the Rocs are fully drained of
 [Malia](../myths/the-life-components.md#malia), the component that binds the
-other five. Without it they cannot use their Air to move, which is why they
+other five. Without it they cannot use their Water to move, which is why they
 levitate yet hang inert in the sky.
 
 | Roc | Notes |
@@ -44,6 +44,7 @@ levitate yet hang inert in the sky.
 
 - [The SkyHangers](../peoples/the-skyhangers.md) — the people who dwell beneath
   the Rocs.
+- [Hereterra](hereterra.md) — the broad region far to the south.
 - [The Life Components](../myths/the-life-components.md) — why the Rocs hang
   motionless: stones drained of Malia.
 - [The Origin of the Rocs](../myths/the-origin-of-the-rocs.md) — how they came
