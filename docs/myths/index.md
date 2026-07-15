@@ -9,6 +9,9 @@ tags:
 The legends, faiths, and cosmology of [Albedia](../index.md) — what its peoples
 believe about the world and its making.
 
+- **[The Life Components](the-life-components.md)** — the six elements whose
+  interaction composes life: Earth, Water, Air, Fire, Soul, and the binding
+  Malia.
 - **[The Sleeping God](the-sleeping-god.md)** — venerated at the temple within
   [Mount Ballor](../locations/mount-ballor.md), in Hereterra. *Stub.*
 

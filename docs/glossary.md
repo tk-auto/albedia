@@ -26,6 +26,16 @@ Glider
     Rocs and the pilot who flies it. See
     [The SkyHangers](peoples/the-skyhangers.md#terminology).
 
+Life Components
+:   The six elements — Earth, Water, Air, Fire, Soul, and Malia — whose
+    interaction composes life. See
+    [The Life Components](myths/the-life-components.md).
+
+Malia
+:   The sixth Life Component, the binder that joins the other five so that they
+    create Life; some individuals can wield it directly. See
+    [The Life Components](myths/the-life-components.md#malia).
+
 Roc
 :   One of the great floating, motionless masses of stone from which the cities
     of [The Mistness](locations/the-mistness.md) hang — its stone unpiercable and
@@ -37,3 +47,5 @@ Roc
 - [The SkyHangers](peoples/the-skyhangers.md) — the people whose way of life
   gives most of these terms.
 - [The Mistness](locations/the-mistness.md) — the clouded pole and its Rocs.
+- [The Life Components](myths/the-life-components.md) — the cosmology behind
+  *Life Components* and *Malia*.
