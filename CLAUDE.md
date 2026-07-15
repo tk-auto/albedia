@@ -168,3 +168,19 @@ Peaks, the Scythed Lands, the Esper Counties, and more); and the stub region
 Always commit directly to `main` — no feature branches, no pull requests, no
 fuss. Make the change, ensure `mkdocs build --strict` passes, commit, and push
 to `main`.
+
+## After the change lands on `main`
+
+Once the change is on `main` (the push, or a merge), the GitHub Pages deploy runs
+automatically via [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
+Don't stop there:
+
+1. **Wait for the deploy Action to finish** — watch the workflow run triggered by
+   the commit until it completes (a green success, not merely "queued" or
+   "in progress").
+2. **Present the published URL to the user** — once the run succeeds, give them
+   the live GitHub Pages link, <https://tk-auto.github.io/albedia/>, so they can
+   see the change on the site.
+
+If the Action fails, report the failure and what broke rather than sending the
+URL as though it succeeded.
