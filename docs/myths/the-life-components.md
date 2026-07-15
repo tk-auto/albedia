@@ -44,10 +44,20 @@ The fifth Life Component, representing the emotions.
 The sixth and last Life Component. Malia serves as the binder of the other
 five, joining them so that they create Life.
 
-Some individuals can wield Malia directly: [Elina](../characters/elina.md)
-used it to quicken [Lem](../characters/lem.md) from lakeside peat. Lem himself
-cannot use Malia, but his strong tie to the Life Components lets him interact
-with the way others use it.
+Some individuals can wield Malia directly — knowingly or not:
+[Elina](../characters/elina.md) carries an affinity for it that she is unaware
+of, and used it without knowing to quicken [Lem](../characters/lem.md) from
+lakeside peat. Lem himself cannot use Malia, but his strong tie to the Life
+Components lets him interact with the way others use it.
+
+## Even stone is a little alive
+
+The Life Components compose more than plants and creatures: everything in
+Albedia, even rock, is a little alive. The clearest case is the **Rocs** of
+[The Mistness](../locations/the-mistness.md) — the colossal stones hanging
+motionless over the northern pole. The Rocs are fully drained of Malia, and
+without it they cannot use their Air to move: they levitate, but hang inert in
+the sky.
 
 ## See also
 
@@ -56,5 +66,7 @@ with the way others use it.
   of the components' interaction.
 - [Elina and Lem](../stories/elina-and-lem.md) — the tale this account comes
   from.
+- [The Mistness](../locations/the-mistness.md) — home of the Rocs, stones
+  drained of Malia.
 - [Glossary](../glossary.md) — short definitions of *Life Components* and
   *Malia*.

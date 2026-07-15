@@ -23,6 +23,13 @@ the northern head of [Val Verde](val-verde.md), just below the crater of
 corrosive wind of [the Scythed Lands](the-scythed-lands.md) is said to climb back
 up its course.
 
+## The making of Lem
+
+At an as-yet-unnamed lake along the river's course,
+[Elina](../characters/elina.md) unknowingly quickened
+[Lem](../characters/lem.md) from the peat of the shore — the beginning of the
+tale of [Elina and Lem](../stories/elina-and-lem.md).
+
 ## Nerem's Trail
 
 Because trade is frequent between the [Esper Counties](esper-counties.md) and the
@@ -38,3 +45,5 @@ extensively improved to carry the convoys that pass along it.
 - [Esper Counties](esper-counties.md) and [Taje Plateaus](taje-plateaus.md) — the
   lands its trail connects.
 - [Nerem](../characters/nerem.md) — namesake of the trail.
+- [Lem](../characters/lem.md) and [Elina](../characters/elina.md) — made and
+  maker, at a lake along the river.

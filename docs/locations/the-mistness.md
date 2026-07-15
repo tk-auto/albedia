@@ -21,6 +21,12 @@ the breathable air becomes too thin to sustain life.
 The Rocs are the motionless floating stones of The Mistness. Cities hang from
 their undersides; their upper reaches are lifeless, starved of air.
 
+In the account of [the Life Components](../myths/the-life-components.md), even
+stone is a little alive — and the Rocs are fully drained of
+[Malia](../myths/the-life-components.md#malia), the component that binds the
+other five. Without it they cannot use their Air to move, which is why they
+levitate yet hang inert in the sky.
+
 | Roc | Notes |
 | --- | --- |
 | **Derrite Roc** | Bears part of the city of [Panacea](panacea.md). |
@@ -38,3 +44,5 @@ their undersides; their upper reaches are lifeless, starved of air.
 
 - [The SkyHangers](../peoples/the-skyhangers.md) — the people who dwell beneath
   the Rocs.
+- [The Life Components](../myths/the-life-components.md) — why the Rocs hang
+  motionless: stones drained of Malia.

@@ -24,8 +24,15 @@ Trade runs steadily between the Taje Plateaus and the
 [Nerem's Trail](diamond-river.md#nerems-trail), which has been broadly improved
 for the convoys that use it.
 
+## Notable people
+
+The plateaus are the childhood home of [Elina](../characters/elina.md), who
+grew up there before the events of the tale of
+[Elina and Lem](../stories/elina-and-lem.md).
+
 ## See also
 
 - [Hereterra](hereterra.md) — the region they lie in.
 - [Esper Counties](esper-counties.md) — their trading partner to the north.
 - [Nerem](../characters/nerem.md) — namesake of the trail that links the two.
+- [Elina](../characters/elina.md) — raised on the plateaus.
