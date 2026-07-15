@@ -1,0 +1,63 @@
+site_name: Albedia
+site_description: The world of Albedia — an evolving encyclopedia of its lands, peoples, factions, history, and myth.
+docs_dir: docs
+site_url: https://tk-auto.github.io/albedia/
+use_directory_urls: true
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.indexes      # section index.md pages become landing pages
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+
+# Nav is generated automatically from the docs/ tree (alphabetical, with
+# each section's index.md as its landing page). Uncomment and curate `nav:`
+# here only if you want to control ordering explicitly.
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji
+
+# Fail the build on broken internal links so cross-links never silently rot.
+# Run: mkdocs build --strict
+validation:
+  links:
+    absolute_links: warn
+    unrecognized_links: warn
+    not_found: warn
