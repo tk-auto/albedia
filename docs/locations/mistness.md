@@ -7,7 +7,7 @@ tags:
 
 # Mistness
 
-Mistness is a dense and opaque cloud mass covering the northern pole of
+The Mistness is a dense and opaque cloud mass covering the northern pole of
 [Albedia](../index.md). Above these clouds lie gigantic suspended rocks — the
 **Rocs** — [believed to have been torn from the planet
 itself](../myths/the-origin-of-the-rocs.md), and which levitate without moving.
@@ -18,7 +18,7 @@ the breathable air becomes too thin to sustain life.
 
 ## The Rocs
 
-The Rocs are the motionless floating stones of Mistness. Cities hang from
+The Rocs are the motionless floating stones of the Mistness. Cities hang from
 their undersides; their upper reaches are lifeless, starved of air.
 
 In the account of [the Life Components](../myths/the-life-components.md), even

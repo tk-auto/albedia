@@ -18,7 +18,7 @@ The lands, regions, cities, and landmarks of [Albedia](../index.md).
 
 ## Cities
 
-- **[Panacea](panacea.md)** — a city suspended beneath the Rocs of Mistness.
+- **[Panacea](panacea.md)** — a city suspended beneath the Rocs of the Mistness.
 - **[Calduca](calduca.md)** — a city suspended beneath the Calduca Roc.
 - **[Panklin Citadel](panklin-citadel.md)** — a walled, isolated city of Hereterra.
 - **[Port Terré](port-terre.md)** — the oldest port on the Sea of Lysin.

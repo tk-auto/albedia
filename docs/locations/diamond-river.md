@@ -9,18 +9,18 @@ tags:
 
 The Diamond River is a very broad, many-branched river of
 [Hereterra](hereterra.md), in [Albedia](../index.md), rising in
-[Barren Peaks](barren-peaks.md) and running west to spill into the
+the [Barren Peaks](barren-peaks.md) and running west to spill into the
 northern head of [Val Verde](val-verde.md).
 
 ## Geography
 
-The river takes its source high in [Barren Peaks](barren-peaks.md) and
+The river takes its source high in the [Barren Peaks](barren-peaks.md) and
 descends into the lowlands, where it splits into many ramifications and broad
 marshland rather than a single channel. It passes the fertile
 [Esper Counties](esper-counties.md) and runs on westward, spilling at last into
 the northern head of [Val Verde](val-verde.md), just below the crater of
 [Col Vulca](col-vulca.md), before the valley carries it on southward. The
-corrosive wind of [Scythed Lands](scythed-lands.md) is said to climb back
+corrosive wind of the [Scythed Lands](scythed-lands.md) is said to climb back
 up its course.
 
 ## The making of Lem

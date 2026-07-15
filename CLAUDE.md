@@ -106,12 +106,16 @@ mechanics. Then push. Never commit before the user has approved the content.
   `mistness.md`, `the-skyhangers.md`, `ashen-concord.md`. Articles like
   "the" are kept in the slug when they're part of the name — except for
   locations, which never take one (see next rule).
-- **Locations take no leading "The"**: location names are written without a
-  leading article — *Mistness*, *Barren Peaks*, *Scythed Lands*, never "The
-  Mistness" — in titles, slugs, headings, link text, and running prose alike.
-  This rule is specific to locations; entries in other categories (peoples,
-  myths, …) keep their article when it's part of the name (e.g. *The
-  SkyHangers*).
+- **Locations take no leading "The" in titles and main links**: location
+  entries are named without a leading article — *Mistness*, *Barren Peaks*,
+  *Scythed Lands*, never "The Mistness" — in front-matter titles, slugs,
+  headings, and the link text of listings (category indexes, tables, *See
+  also* lines, "See …" references). In **running prose**, keep a lowercase
+  "the" where the name is a noun and grammar calls for it — "rising in the
+  Barren Peaks", "a city of the Mistness", "the Taje Plateaus" — writing the
+  article outside the link text: `the [Mistness](…)`. This rule is specific to
+  locations; entries in other categories (peoples, myths, …) keep their
+  article when it's part of the name (e.g. *The SkyHangers*).
 - **Front matter**: every page opens with YAML front matter carrying at least
   `title` and `tags`. Reuse existing tags (`locations`, `city`, `region`,
   `peoples`, `characters`, `factions`, `events`, `stories`, `myths`, `glossary`)
@@ -155,8 +159,8 @@ peoples, which live in their own entries.
 Albedia's canon includes: **Mistness** (clouded northern pole) with its
 floating **Rocs** and the **SkyHangers** who live suspended beneath them in the
 cities of **Panacea** and **Calduca**; the broad southern region of
-**Hereterra** and its many locations (the Diamond River, Val Verde, Barren
-Peaks, Scythed Lands, the Esper Counties, and more); and the stub region
+**Hereterra** and its many locations (the Diamond River, Val Verde, the Barren
+Peaks, the Scythed Lands, the Esper Counties, and more); and the stub region
 **Calyps Islands**. The original Obsidian vault is preserved read-only under
 `archive/obsidian/` — consult it when in doubt about migrated content, but treat
 `docs/` as the living canon.

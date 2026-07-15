@@ -38,7 +38,7 @@ Malia
 
 Roc
 :   One of the great floating, motionless masses of stone from which the cities
-    of [Mistness](locations/mistness.md) hang — its stone unpiercable and
+    of the [Mistness](locations/mistness.md) hang — its stone unpiercable and
     immune to erosion, fully drained of Malia and so unable to move. See
     [Mistness](locations/mistness.md),
     [The SkyHangers](peoples/the-skyhangers.md#terminology), and

@@ -8,14 +8,14 @@ tags:
 # Mount Ballor
 
 Mount Ballor is a very steep mountain in the east of [Hereterra](hereterra.md),
-in [Albedia](../index.md). It stands apart from [Barren Peaks](barren-peaks.md)
+in [Albedia](../index.md). It stands apart from the [Barren Peaks](barren-peaks.md)
 and shelters the temple of [the Sleeping God](../myths/the-sleeping-god.md).
 
 ## Geography
 
-Sheer-sided and set off on its own from the main body of Barren Peaks, Mount
+Sheer-sided and set off on its own from the main body of the Barren Peaks, Mount
 Ballor rises above the eastern reaches of the region. The continuous corrosive
-wind of [Scythed Lands](scythed-lands.md) is said to be flung onward, as
+wind of the [Scythed Lands](scythed-lands.md) is said to be flung onward, as
 if catapulted, by the mountain's mass.
 
 ## The temple

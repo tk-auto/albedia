@@ -7,7 +7,7 @@ tags:
 # The Origin of the Rocs
 
 > **Stub.** How the **Rocs** — the colossal stones hanging motionless over
-> [Mistness](../locations/mistness.md) — came to be is not yet
+> the [Mistness](../locations/mistness.md) — came to be is not yet
 > resolved. Two threads await reconciliation: they are *believed to have been
 > torn from the planet itself*, and in the account of
 > [the Life Components](../myths/the-life-components.md) they are *fully
