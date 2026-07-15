@@ -18,7 +18,7 @@ Walled on either side by steep cliffs, Val Verde runs long and deep through the
 region. Growth crowds it from floor to rim — a thick green tangle packed all the
 way to the top of its walls, fed by the waters of the
 [Diamond River](diamond-river.md), which flows down from
-[the Barren Peaks](the-barren-peaks.md) and enters the valley at its northern
+[Barren Peaks](barren-peaks.md) and enters the valley at its northern
 head, below [Col Vulca](col-vulca.md), before running on southward down its
 length.
 

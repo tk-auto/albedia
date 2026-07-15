@@ -6,7 +6,7 @@ tags:
 
 # The SkyHangers
 
-The SkyHangers are a people of [The Mistness](../locations/the-mistness.md), the
+The SkyHangers are a people of [Mistness](../locations/mistness.md), the
 clouded northern pole of [Albedia](../index.md). They live beneath the great
 floating **Rocs**, dwelling in clever constructions attached to the undersides of
 the stone — hung between the impassable cloud below and the airless heights
@@ -31,7 +31,7 @@ flying wings that lend both the craft and its pilot their name.
 
 ## Homeland & settlements
 
-The SkyHangers dwell in [The Mistness](../locations/the-mistness.md), beneath its
+The SkyHangers dwell in [Mistness](../locations/mistness.md), beneath its
 motionless Rocs:
 
 - **[Panacea](../locations/panacea.md)** — a giant city straddling the undersides
@@ -63,11 +63,11 @@ Roc
 :   One of the great floating masses of stone from which the SkyHangers' cities
     hang. A Roc is fixed and motionless; its stone cannot be pierced and does not
     erode. The known Rocs are listed on
-    [The Mistness](../locations/the-mistness.md).
+    [Mistness](../locations/mistness.md).
 
 ## See also
 
-- [The Mistness](../locations/the-mistness.md) — the SkyHangers' homeland and its
+- [Mistness](../locations/mistness.md) — the SkyHangers' homeland and its
   Rocs.
 - [Panacea](../locations/panacea.md), [Calduca](../locations/calduca.md) — their
   cities.

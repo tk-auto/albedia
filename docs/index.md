@@ -27,7 +27,7 @@ the powers that shape them, and the stories they tell.
 
 ## The world at a glance
 
-The northern pole of Albedia lies beneath [The Mistness](locations/the-mistness.md),
+The northern pole of Albedia lies beneath [Mistness](locations/mistness.md),
 a vast cloud mass over which colossal rocks — the **Rocs** — hang motionless in
 the sky, believed to have been torn from the planet itself. Beneath them cling
 the [SkyHangers](peoples/the-skyhangers.md), a people who have made the underside

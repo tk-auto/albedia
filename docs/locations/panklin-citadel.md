@@ -21,4 +21,4 @@ overcrowding.
 ## See also
 
 - [Hereterra](hereterra.md) — the region it stands in.
-- [The Scythed Lands](the-scythed-lands.md) — the corrosive desert to its north.
+- [Scythed Lands](scythed-lands.md) — the corrosive desert to its north.

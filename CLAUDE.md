@@ -103,14 +103,21 @@ mechanics. Then push. Never commit before the user has approved the content.
 ## Writing conventions
 
 - **Filenames**: lowercase kebab-case slugs matching the title —
-  `the-mistness.md`, `the-skyhangers.md`, `ashen-concord.md`. Articles like
-  "the" are kept in the slug when they're part of the name.
+  `mistness.md`, `the-skyhangers.md`, `ashen-concord.md`. Articles like
+  "the" are kept in the slug when they're part of the name — except for
+  locations, which never take one (see next rule).
+- **Locations take no leading "The"**: location names are written without a
+  leading article — *Mistness*, *Barren Peaks*, *Scythed Lands*, never "The
+  Mistness" — in titles, slugs, headings, link text, and running prose alike.
+  This rule is specific to locations; entries in other categories (peoples,
+  myths, …) keep their article when it's part of the name (e.g. *The
+  SkyHangers*).
 - **Front matter**: every page opens with YAML front matter carrying at least
   `title` and `tags`. Reuse existing tags (`locations`, `city`, `region`,
   `peoples`, `characters`, `factions`, `events`, `stories`, `myths`, `glossary`)
   and add specific ones where useful. Tags feed `docs/tags.md`.
 - **Cross-links**: standard relative Markdown links to the target `.md` file,
-  e.g. `[The Mistness](../locations/the-mistness.md)` or, within a folder,
+  e.g. `[Mistness](../locations/mistness.md)` or, within a folder,
   `[Panacea](panacea.md)`. Not `[[wikilinks]]` — this is a static build. Linking
   to a heading anchor within a page (e.g. `the-skyhangers.md#terminology`) is
   fine, since headings get anchors; do not link to definition-list terms, which
@@ -145,11 +152,11 @@ peoples, which live in their own entries.
 
 ## The world so far
 
-Albedia's canon includes: **The Mistness** (clouded northern pole) with its
+Albedia's canon includes: **Mistness** (clouded northern pole) with its
 floating **Rocs** and the **SkyHangers** who live suspended beneath them in the
 cities of **Panacea** and **Calduca**; the broad southern region of
-**Hereterra** and its many locations (the Diamond River, Val Verde, the Barren
-Peaks, the Scythed Lands, the Esper Counties, and more); and the stub region
+**Hereterra** and its many locations (the Diamond River, Val Verde, Barren
+Peaks, Scythed Lands, the Esper Counties, and more); and the stub region
 **Calyps Islands**. The original Obsidian vault is preserved read-only under
 `archive/obsidian/` — consult it when in doubt about migrated content, but treat
 `docs/` as the living canon.

@@ -54,7 +54,7 @@ Components lets him interact with the way others use it.
 
 The Life Components compose more than plants and creatures: everything in
 Albedia, even rock, is a little alive. The clearest case is the **Rocs** of
-[The Mistness](../locations/the-mistness.md) — the colossal stones hanging
+[Mistness](../locations/mistness.md) — the colossal stones hanging
 motionless over the northern pole. The Rocs are fully drained of Malia, and
 without it they cannot use their Air to move: they levitate, but hang inert in
 the sky.
@@ -66,7 +66,7 @@ the sky.
   of the components' interaction.
 - [Elina and Lem](../stories/elina-and-lem.md) — the tale this account comes
   from.
-- [The Mistness](../locations/the-mistness.md) — home of the Rocs, stones
+- [Mistness](../locations/mistness.md) — home of the Rocs, stones
   drained of Malia.
 - [The Origin of the Rocs](the-origin-of-the-rocs.md) — how the Rocs came to
   be drained is an open question. *Stub.*

@@ -38,9 +38,9 @@ Malia
 
 Roc
 :   One of the great floating, motionless masses of stone from which the cities
-    of [The Mistness](locations/the-mistness.md) hang — its stone unpiercable and
+    of [Mistness](locations/mistness.md) hang — its stone unpiercable and
     immune to erosion, fully drained of Malia and so unable to move. See
-    [The Mistness](locations/the-mistness.md),
+    [Mistness](locations/mistness.md),
     [The SkyHangers](peoples/the-skyhangers.md#terminology), and
     [The Life Components](myths/the-life-components.md#even-stone-is-a-little-alive).
 
@@ -48,6 +48,6 @@ Roc
 
 - [The SkyHangers](peoples/the-skyhangers.md) — the people whose way of life
   gives most of these terms.
-- [The Mistness](locations/the-mistness.md) — the clouded pole and its Rocs.
+- [Mistness](locations/mistness.md) — the clouded pole and its Rocs.
 - [The Life Components](myths/the-life-components.md) — the cosmology behind
   *Life Components* and *Malia*.

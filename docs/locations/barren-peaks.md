@@ -1,19 +1,19 @@
 ---
-title: The Barren Peaks
+title: Barren Peaks
 tags:
   - locations
   - region
 ---
 
-# The Barren Peaks
+# Barren Peaks
 
-The Barren Peaks are a mid-altitude mountain range along the north-east of
+Barren Peaks are a mid-altitude mountain range along the north-east of
 [Hereterra](hereterra.md), in [Albedia](../index.md), home to a fierce and
 dangerous wildlife.
 
 ## Geography
 
-Neither the highest nor the lowest of ranges, the Barren Peaks are given their
+Neither the highest nor the lowest of ranges, Barren Peaks are given their
 menace by the ferocious fauna that roam them. The [Diamond River](diamond-river.md)
 rises among their heights, and the sheer [Mount Ballor](mount-ballor.md) stands
 detached from their south-eastern flank.
