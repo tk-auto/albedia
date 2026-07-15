@@ -20,20 +20,25 @@ docs/
   events/           # History and the timeline
   stories/          # Tales and narratives set in the world
   myths/            # Legends, religion, cosmology
+  glossary.md       # Global glossary of world-specific terms
   tags.md           # Auto-generated tag index
 archive/obsidian/   # Original Obsidian vault (read-only reference)
-.claude/skills/     # The `albedia-wiki` skill that drives editing sessions
+.claude/templates/  # Entry scaffolds for each category
+CLAUDE.md           # How Claude edits the world (conventions + workflow)
 ```
 
 Each category folder has an `index.md` that lists and introduces its entries.
 
 ## Editing with Claude
 
-This repo ships an [`albedia-wiki` skill](.claude/skills/albedia-wiki/SKILL.md).
-Just tell Claude what you want to add or change ("add a faction that rules
-Panacea", "flesh out the SkyHangers", "what myths do the SkyHangers tell?") and
-it will interview you for the missing details, write the entry using the
-conventions below, wire up cross-links, verify the build, and commit.
+Worldbuilding is the main activity in this repo, so Claude works this way by
+default — the full workflow and conventions live in
+[`CLAUDE.md`](CLAUDE.md), with entry scaffolds in
+[`.claude/templates/`](.claude/templates/). Just tell Claude what you want to add
+or change ("add a faction that rules Panacea", "flesh out the SkyHangers", "what
+myths do the SkyHangers tell?") and it will interview you for the missing
+details, write the entry using the conventions below, wire up cross-links, verify
+the build, and commit.
 
 ## Conventions
 

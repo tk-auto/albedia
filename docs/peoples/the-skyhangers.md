@@ -41,7 +41,8 @@ motionless Rocs:
 
 ## Terminology
 
-Terms particular to the world of the SkyHangers.
+Terms particular to the world of the SkyHangers, also collected in the world
+[Glossary](../glossary.md).
 
 Anchor
 :   A fixing point where a city's structures are made fast to the underside of a
