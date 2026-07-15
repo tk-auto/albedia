@@ -21,6 +21,7 @@ the powers that shape them, and the stories they tell.
 - :material-timeline: **[Events](events/index.md)** — the history and timeline of the world.
 - :material-book-open-variant: **[Stories](stories/index.md)** — tales set among these lands.
 - :material-earth: **[Myths](myths/index.md)** — the legends, faiths, and cosmology of Albedia.
+- :material-alphabetical: **[Glossary](glossary.md)** — the world's particular vocabulary, term by term.
 
 </div>
 
